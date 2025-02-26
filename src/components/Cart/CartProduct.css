@@ -1,0 +1,8 @@
+@media (max-width: 1024px) and (min-width: 0px) {
+    .lowScreen{
+        @apply grid-cols-1
+    }
+    .lowBar{
+        @apply mr-4
+    }
+}

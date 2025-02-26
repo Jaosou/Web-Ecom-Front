@@ -1,0 +1,6 @@
+.iconSideBarDefault {
+    @apply text-gray-700 bg-white rounded-2xl  hover:bg-gray-700 hover:text-white flex items-center px-4 py-4
+}
+.iconSideBarActive{
+    @apply bg-gray-900 text-white rounded-2xl  flex items-center px-4 py-4
+}

@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.headerTable{
+    @apply p-3 text-lg tracking-wide text-left
+}
+
+.childTable{
+    @apply p-3 text-base text-black tracking-wide text-left
+}
+
+.labelText{
+    @apply font-medium text-lg
+}

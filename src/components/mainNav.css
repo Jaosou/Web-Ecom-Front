@@ -1,0 +1,4 @@
+@tailwind base;
+.formatMenuNav{
+    @apply ease-in duration-300 backdrop-blur-sm bg-white/20 px-5 py-2 pr-6 rounded-xl text-white font-bold text-base text-center;
+}
